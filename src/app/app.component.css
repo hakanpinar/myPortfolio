@@ -1,0 +1,17 @@
+@media only screen and (max-width : 800px) {
+    h1 {
+        font-size: 40px;
+    }
+
+    h5 {
+        font-size: 15px;
+    }
+
+    .chip {
+        font-size: 10px;
+    }
+
+    .parallax {
+        height: 285px;
+    }
+}
